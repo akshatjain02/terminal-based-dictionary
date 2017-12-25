@@ -1,2 +1,13 @@
 # terminal-based-dictionary
-Simple python script for a dictionary which gives meaning of english words using Glosbe API.
+Simple python script for a dictionary which gives meanings of english words using Glosbe API.
+
+Runs on python2
+
+```
+cd
+git clone https://github.com/akshatjain02/terminal-based-dictionary.git
+cd terminal-based-dictionary
+python2 dict.py
+```
+
+Created to learn basics of json and APIs.
