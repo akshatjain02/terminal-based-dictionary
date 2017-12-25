@@ -1,5 +1,5 @@
 # terminal-based-dictionary
-Simple python script for a dictionary which gives meanings of english words using Glosbe API.
+Simple python script for a dictionary which gives meanings of english words using [Glosbe API](https://glosbe.com/a-api).
 
 Runs on python2
 
